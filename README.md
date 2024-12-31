@@ -1,4 +1,4 @@
-# database_proj3
+# databaseProj3
 Comparing Opengauss and PostgreSQL
 ===
 该实验使用java程序连接到sql，分为性能测试，可靠性测试，安全性测试三个部分。每个部分内部又有更为细致的分类测试。每个测试均使用相同sql语句检测opengauss和postgreSQL. SQL语句的执行使用java文件，每个测试使用一个java文件。java文件运行后会自动打印测试结果，如运行时间和成功与否，可供后期的数据分析。
