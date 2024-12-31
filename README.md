@@ -1,2 +1,2 @@
 # database_proj3
-Comparing Opengauss
+Comparing Opengauss and PostgreSQL
